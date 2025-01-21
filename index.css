@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    color:maroon;
+    background-color:antiquewhite;
+    padding: 20px;
+}
+h2{
+    font-family: Helvetica;
+    color:black;
+    padding: 10px;
+}
+.button_container{
+    display: flex;
+    justify-content: center;
+}
+
+button img {
+    height: 300px;
+    width: 200px;
+}
